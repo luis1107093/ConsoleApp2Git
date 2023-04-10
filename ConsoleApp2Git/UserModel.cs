@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2Git
 {
-    internal class UserModel
+    public class UserModel
     {
+        public int MyProperty { get; set; }
     }
 }
