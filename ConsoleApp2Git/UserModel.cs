@@ -9,5 +9,6 @@ namespace ConsoleApp2Git
     public class UserModel
     {
         public int MyProperty { get; set; }
+        public int NAme { get; set; }
     }
 }
